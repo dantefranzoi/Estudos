@@ -4,12 +4,8 @@ Espaço onde guardo minhas anotações e insights durante minha jornada de estud
 
 ## 🚀 o que esperar?
 
-```bash
-./Anotacoes
-./Projetos
-./Snippets
-./Recursos
-
+Anotacoes
+Projetos
 
 ## Como Navegar
 
