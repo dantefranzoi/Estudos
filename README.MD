@@ -4,8 +4,7 @@ Espaço onde guardo minhas anotações e insights durante minha jornada de estud
 
 ## 🚀 o que esperar?
 
-Anotacoes
-Projetos
+Anotações e projetos
 
 ## Como Navegar
 
