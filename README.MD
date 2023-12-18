@@ -12,6 +12,6 @@ Anotações e projetos
 
 2. **Dúvidas e Discussões:** Abra issues para qualquer pergunta, correção ou simplesmente para iniciar uma conversa sobre um tópico específico. Estou sempre pronto para trocar e construir junto!
 
-##Contribuindo
+## Contribuindo
 
 Se você tem algo interessante para adicionar ou corrigir, fique à vontade para fazer um fork e enviar um pull request. 
