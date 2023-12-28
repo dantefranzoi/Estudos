@@ -4,12 +4,7 @@ Espaço onde guardo minhas anotações e insights durante minha jornada de estud
 
 ## 🚀 o que esperar?
 
-```bash
-./Anotacoes
-./Projetos
-./Snippets
-./Recursos
-
+Anotações e projetos
 
 ## Como Navegar
 
@@ -17,6 +12,6 @@ Espaço onde guardo minhas anotações e insights durante minha jornada de estud
 
 2. **Dúvidas e Discussões:** Abra issues para qualquer pergunta, correção ou simplesmente para iniciar uma conversa sobre um tópico específico. Estou sempre pronto para trocar e construir junto!
 
-##Contribuindo
+## Contribuindo
 
 Se você tem algo interessante para adicionar ou corrigir, fique à vontade para fazer um fork e enviar um pull request. 
