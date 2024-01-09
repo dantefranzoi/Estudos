@@ -1,0 +1,27 @@
+<h1 align ="center"> SQL, sem complicar demais. </h1>
+
+  Não entrarei em muitos detalhes sobre o que é SQL e a história por trás dele. 
+  Vou concentrar mais em como usá-lo em vários casos de uso.
+
+1. O que significa SQL?
+
+Bem, SQL significa Structure Query Language e é usado para acessar e manipular bancos de dados.Embora SQL seja um “Padrão”, existem algumas ressalvas. Dependendo do banco de dados que você está usando, a sintaxe pode mudar um pouco. Por exemplo:
+
+```SQL
+SQL Server : SELECT TOP 10 * FROM DATABASE
+```
+
+```MySQL
+MySQL: SELECT * FROM DATABASE LIMIT 10
+```
+
+2. Sintaxe Básica
+
+Instruções SQL são apenas palavras-chave que, em geral, são bastante fáceis de entender – é um inglês simples.
+Se você deseja selecionar todos os registros de uma tabela de usuário, basta executar a seguinte instrução:
+
+SELECT * FROM user_table
+
+Agora, digamos que você se preocupa apenas com uma coluna específica (user_name):
+
+SELECT user_name FROM user_table
